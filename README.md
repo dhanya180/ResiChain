@@ -1,3 +1,1 @@
-# ResiChain - 
-
-.
+ # ResiChain – Resilent Supply Chains
